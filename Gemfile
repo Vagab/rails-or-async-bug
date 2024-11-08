@@ -62,4 +62,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "async", "~> 2.17"
+gem "async", "~> 2.19"
